@@ -14,6 +14,32 @@
     - Mongo DB
     - PostgreSQL
 
-## Lifecycle of a Data Science Project
+## Install
+- Anaconda
 
-1. Requirement Gathering - > Involving Domain Expertise/Product Owner, Business Analyst
+Alternatively, use Google CoLab or GitHub Codespace
+
+## Create an Environment 
+
+In your project folder:
+
+conda create -p venv python==3.12
+
+install libraries 
+
+Activate the env via:
+
+conda activate venv/
+
+To create a jupiter notebook e.g touch test.ipynb
+
+Select kernel from venv (python)
+
+To run a cell - hold Shift and Enter
+
+
+
+
+
+
+
