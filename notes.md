@@ -49,7 +49,13 @@ python files can be run with the command 'pthon <filenmae>' in the terminal as o
 
 See file 1-Syntax-and-Semantics.md
 
+## Variables
 
+See file 1.1-Variables.md
+
+## Datatypes
+
+See file 1.2-Datatypes.md
 
 
 
