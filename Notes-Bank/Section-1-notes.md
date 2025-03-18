@@ -81,7 +81,7 @@ This course provides a comprehensive guide to MLOps (Machine Learning Operations
    - **Open Source Tools**: All tools used in the course are open source.
 
 ---
-
+ 
 ### 6. **Tools and Technologies**
    - **Programming Language**: Python
    - **Version Control**: Git, GitHub
