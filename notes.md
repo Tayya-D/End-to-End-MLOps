@@ -14,10 +14,14 @@
     - Mongo DB
     - PostgreSQL
 
+---
+
 ## Install
 - Anaconda
 
 Alternatively, use Google CoLab or GitHub Codespace
+
+---
 
 ## Create an Environment 
 
@@ -45,17 +49,15 @@ create a requirements.txt to list the desired packages in one place. Can run the
 
 python files can be run with the command 'pthon <filenmae>' in the terminal as opposed to the notebook files; which the cells can be individually executed via Shift+Enter
 
-## Syntax and Semantics
+---
 
-See file 1-Syntax-and-Semantics.md
+## Python used in Data Science
 
-## Variables
+# Syntax and Semantics
+# Variables
+# Datatypes
 
-See file 1.1-Variables.md
 
-## Datatypes
-
-See file 1.2-Datatypes.md
 
 
 
