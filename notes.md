@@ -52,10 +52,24 @@ python files can be run with the command 'pthon <filenmae>' in the terminal as o
 ---
 
 ## Python used in Data Science
-
+## 1 Basics
 # Syntax and Semantics
 # Variables
 # Datatypes
+# Operators
+
+## 2 Control Flow
+# Conditional Statements
+# Loops
+
+## Data Structures
+# Lists
+# Sets
+# Tuples
+# Dictionaries
+
+
+
 
 
 
