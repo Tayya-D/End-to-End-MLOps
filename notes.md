@@ -62,11 +62,15 @@ python files can be run with the command 'pthon <filenmae>' in the terminal as o
 # Conditional Statements
 # Loops
 
-## Data Structures
+## 3 Data Structures
 # Lists
 # Sets
 # Tuples
 # Dictionaries
+
+## 4 Functions
+
+
 
 
 
